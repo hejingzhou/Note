@@ -48,7 +48,7 @@
 
 #### 运行
 
-![Run](/Users/jingzhouhe/Desktop/学习文档/run.png)
+![Run](https://github.com/hejingzhou/Note/blob/master/imageResource/run.png)
 
 #### 启动瞬间就Tomcat就又挂了没任何报错
 
@@ -56,9 +56,9 @@
 
 ```xml
 <dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-tomcat</artifactId>
-			<scope>scope</scope>
+	<groupId>org.springframework.boot</groupId>
+	<artifactId>spring-boot-starter-tomcat</artifactId>
+	<scope>scope</scope>
 </dependency>
 ```
 
@@ -66,9 +66,9 @@
 
 ```xml
 <dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-tomcat</artifactId>
-			<scope>compile</scope>
+	<groupId>org.springframework.boot</groupId>
+	<artifactId>spring-boot-starter-tomcat</artifactId>
+	<scope>compile</scope>
 </dependency>
 ```
 
