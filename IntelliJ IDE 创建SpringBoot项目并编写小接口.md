@@ -14,7 +14,7 @@
 
 1、创建Maven的setting.xml文件（这一步部和下一步不是必须 只是为了更快下载）
 
-![create_maven_setting.xml.png](/Users/jingzhouhe/Desktop/学习文档/create_setting.xml.png)  
+![create_maven_setting.xml.png](https://github.com/hejingzhou/Note/blob/master/imageResource/create_setting.xml.png)  
 
 我创建过所以是open Settings.xml
 
