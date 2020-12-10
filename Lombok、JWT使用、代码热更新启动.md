@@ -139,9 +139,9 @@ jti：JWT ID为web token提供唯一标识
 
 配置一：
 
-![](https://github.com/hejingzhou/Note/blob/master/imageResource/hot_run.png)
+![配置一Picture](https://github.com/hejingzhou/Note/blob/master/imageResource/hot_run.png)
 
 配置二：
 
-![](https://github.com/hejingzhou/Note/blob/master/imageResource/hot_run_2.png)
+![配置二Picture](https://github.com/hejingzhou/Note/blob/master/imageResource/hot_run_2.png)
 
