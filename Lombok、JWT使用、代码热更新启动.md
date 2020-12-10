@@ -15,7 +15,7 @@
 
 2、设置IDE启动注解处理
 
-![enable_annotation](/Users/jingzhouhe/Desktop/学习文档/lom.png)
+![enable_annotation](https://github.com/hejingzhou/Note/blob/master/imageResource/lom.png)
 
 3、在实体类上进行注解
 
@@ -139,9 +139,9 @@ jti：JWT ID为web token提供唯一标识
 
 配置一：
 
-![](/Users/jingzhouhe/Desktop/学习文档/hot_run.png)
+![](https://github.com/hejingzhou/Note/blob/master/imageResource/hot_run.png)
 
 配置二：
 
-![](/Users/jingzhouhe/Desktop/学习文档/hot_run_2.png)
+![](https://github.com/hejingzhou/Note/blob/master/imageResource/hot_run_2.png)
 
