@@ -1,5 +1,3 @@
-[toc]
-
 #### Redis安装
 
 1、解压redis  `tar-zxvf  redis-6.0.9.tar.gz`
