@@ -14,7 +14,7 @@
 
 1、创建Maven的setting.xml文件（这一步部和下一步不是必须 只是为了更快下载）
 
-![create_maven_setting.xml.png](/Users/jingzhouhe/Desktop/学习文档/create_setting.xml.png)  
+![create_maven_setting.xml.png](https://github.com/hejingzhou/Note/blob/master/imageResource/create_setting.xml.png)  
 
 我创建过所以是open Settings.xml
 
@@ -48,7 +48,7 @@
 
 #### 运行
 
-![Run](/Users/jingzhouhe/Desktop/学习文档/run.png)
+![Run](https://github.com/hejingzhou/Note/blob/master/imageResource/run.png)
 
 #### 启动瞬间就Tomcat就又挂了没任何报错
 
@@ -56,9 +56,9 @@
 
 ```xml
 <dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-tomcat</artifactId>
-			<scope>scope</scope>
+	<groupId>org.springframework.boot</groupId>
+	<artifactId>spring-boot-starter-tomcat</artifactId>
+	<scope>scope</scope>
 </dependency>
 ```
 
@@ -66,9 +66,9 @@
 
 ```xml
 <dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-tomcat</artifactId>
-			<scope>compile</scope>
+	<groupId>org.springframework.boot</groupId>
+	<artifactId>spring-boot-starter-tomcat</artifactId>
+	<scope>compile</scope>
 </dependency>
 ```
 
